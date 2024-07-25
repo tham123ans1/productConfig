@@ -1,8 +1,8 @@
 {
-  apiKey: "AIzaSyDriYHR51Ub9aVBZtgzcQJ1kmPJGra7h_4",
-  authDomain: "arabicpracticetwo.firebaseapp.com",
-  projectId: "arabicpracticetwo",
-  storageBucket: "arabicpracticetwo.appspot.com",
-  messagingSenderId: "171834861504",
-  appId: "1:171834861504:web:026ba6b075f441f4070a25"
+  "apiKey": "AIzaSyDriYHR51Ub9aVBZtgzcQJ1kmPJGra7h_4",
+  "authDomain": "arabicpracticetwo.firebaseapp.com",
+  "projectId": "arabicpracticetwo",
+  "storageBucket": "arabicpracticetwo.appspot.com",
+  "messagingSenderId": "171834861504",
+  "appId": "1:171834861504:web:026ba6b075f441f4070a25"
 }
